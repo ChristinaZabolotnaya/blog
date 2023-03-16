@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Blog last week
 cms_exclude: true
 
 # View.
@@ -13,3 +13,5 @@ header:
   caption: ''
   image: ''
 ---
+
+Throughout the past week, I have been doing laboratory work on Operating Systems, preparing for seminars on mathematical analysis, as well as reports on the history of Russia.
